@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-@import url(//fonts.googleapis.com/css?family=Lora:400,700|Lato:400,300);
+@import url(https//fonts.googleapis.com/css?family=Lora:400,700|Lato:400,300);
 
 
 html, body {background: #ffffff; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #000000;}
